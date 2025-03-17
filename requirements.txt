@@ -1,0 +1,6 @@
+gradio
+requests
+textblob
+gtts
+beautifulsoup4
+nltk
